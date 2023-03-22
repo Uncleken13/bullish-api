@@ -6,7 +6,7 @@
     "start": "./bin/express server"
   },
   "engines": {
-    "node": "6.11.1",
+    "node": "6.17.1",
     "npm": "4.5.0"
   },
   "dependencies": {
