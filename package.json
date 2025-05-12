@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "bcrypt": "^1.0.3",
-    "body-parser": "^1.17.1",
+    "body-parser": "^2.0.0",
     "cors": "^2.8.3",
     "debug": "^2.6.6",
     "dotenv": "^4.0.0",
